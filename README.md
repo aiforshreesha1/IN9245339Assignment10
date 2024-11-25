@@ -9,5 +9,9 @@ This is a fully functional **E-Commerce Website** built using **Next.js** and **
 - **Payment Integration**: Secure and seamless checkout.
 
 ## Working Video 
-![Video Description](./Untitled video - Made with Clipchamp.mp4)
+<video width="320" height="240" controls>
+  <source src="./Untitled video - Made with Clipchamp.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
