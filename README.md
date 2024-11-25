@@ -8,3 +8,5 @@ This is a fully functional **E-Commerce Website** built using **Next.js** and **
 - **Profile Management**: View and update your profile.
 - **Payment Integration**: Secure and seamless checkout.
 
+## Working Video 
+[Untitled video - Made with Clipchamp.mp4](./Untitled video - Made with Clipchamp.mp4)
